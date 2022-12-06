@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Thanh 👋
 
 <!--
 **minhthanhhlht/minhthanhhlht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
